@@ -1,7 +1,7 @@
 # Generador de reportes de entornos y sus servicios
 
 locals {
-    report_path = "${path.cwd}/generated_environments/reports"
+    report_path = "${path.cwd}/generated_environment/reports"
 }
 
 resource "local_file" "resume" {
