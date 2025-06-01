@@ -103,6 +103,6 @@ terraform.tfstate.backup
 # End of https://www.gitignore.io/api/terraform
 
 
-*generated_environments/
+*generated_environment/
 .terraform*
 *.txt
